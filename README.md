@@ -98,6 +98,6 @@ Each Markdown file in the repository is licensed under the
 
 ## Author
 
-The technical content is written by [@0xAX](https://x.com/0xAX).
+The technical content is written by [Abin](https://x.com/Abin).
 
 Additional big thanks to [@klaudiagrz](https://github.com/klaudiagrz) for text improvements.
